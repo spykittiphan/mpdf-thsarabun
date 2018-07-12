@@ -1,6 +1,6 @@
 {
 
-	"name": "mpdf/mpdf",
+	"name": "sittikorn1904/mpdf-thsarabun",
 	"type": "library",
 
 	"description": "A PHP class to generate PDF files from HTML with Unicode/UTF-8 and CJK support",
@@ -23,8 +23,8 @@
 
 	"support": {
 
-		"issues": "https://github.com/mpdf/mpdf/issues",
-		"source": "https://github.com/mpdf/mpdf",
+		"issues": "https://github.com/sittikorn1904/mpdf-thsarabun/issues",
+		"source": "https://github.com/sittikorn1904/mpdf-thsarabun",
 		"docs": "http://mpdf.github.io"
 
 	},
